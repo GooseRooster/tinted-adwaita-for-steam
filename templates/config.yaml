@@ -1,0 +1,12 @@
+base16-tinted-adwaita-for-steam:
+  filename: output/{{scheme-system}}-{{scheme-slug}}.css
+  supported-systems: [base16, base24]
+  description: "Adwaita-for-Steam custom.css color theme generated from a Base16 or Base24 scheme"
+
+tinted8-tinted-adwaita-for-steam:
+  filename: output/{{scheme-system}}-{{scheme-slug}}.css
+  supported-systems: [tinted8]
+  supports:
+    tinted8-builder: "0.2.0"
+    tinted8-styling: "0.2.0"
+  description: "Adwaita-for-Steam custom.css color theme generated from a Tinted8 scheme"

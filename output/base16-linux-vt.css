@@ -1,0 +1,86 @@
+/* Linux VT by j-c-m (https://github.com/j-c-m/) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #5555ff !important;
+	--adw-accent-bg-dark: #5555ff !important;
+	--adw-accent-fg: #000000 !important;
+
+	--adw-destructive-bg-light: #aa0000 !important;
+	--adw-destructive-bg-dark: #aa0000 !important;
+	--adw-destructive-fg: #000000 !important;
+
+	--adw-success-bg-light: #00aa00 !important;
+	--adw-success-bg-dark: #00aa00 !important;
+	--adw-success-fg: #000000 !important;
+
+	--adw-warning-bg-light: #ffff55 !important;
+	--adw-warning-bg-dark: #ffff55 !important;
+	--adw-warning-fg: #000000 !important;
+
+	--adw-error-bg-light: #aa0000 !important;
+	--adw-error-bg-dark: #aa0000 !important;
+	--adw-error-fg: #000000 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #000000 !important;
+	--adw-window-fg: #aaaaaa !important;
+
+	--adw-view-bg: #000000 !important;
+	--adw-view-fg: #aaaaaa !important;
+
+	--adw-headerbar-bg: #333333 !important;
+	--adw-headerbar-fg: #aaaaaa !important;
+	--adw-headerbar-backdrop: #000000 !important;
+	--adw-headerbar-shade: rgba(85, 85, 85, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(85, 85, 85, 0.9) !important;
+
+	--adw-sidebar-bg: #333333 !important;
+	--adw-sidebar-fg: #aaaaaa !important;
+	--adw-sidebar-backdrop: #000000 !important;
+	--adw-sidebar-shade: rgba(85, 85, 85, 0.25) !important;
+	--adw-sidebar-border: #555555 !important;
+
+	--adw-secondary-sidebar-bg: #444444 !important;
+	--adw-secondary-sidebar-fg: #aaaaaa !important;
+	--adw-secondary-sidebar-backdrop: #333333 !important;
+	--adw-secondary-sidebar-shade: rgba(85, 85, 85, 0.25) !important;
+	--adw-secondary-sidebar-border: #555555 !important;
+
+	--adw-card-bg: #444444 !important;
+	--adw-card-fg: #aaaaaa !important;
+	--adw-card-shade: rgba(85, 85, 85, 0.36) !important;
+
+	--adw-dialog-bg: #444444 !important;
+	--adw-dialog-fg: #aaaaaa !important;
+
+	--adw-popover-bg: #444444 !important;
+	--adw-popover-fg: #aaaaaa !important;
+	--adw-popover-shade: rgba(85, 85, 85, 0.25) !important;
+
+	--adw-thumbnail-bg: #444444 !important;
+	--adw-thumbnail-fg: #aaaaaa !important;
+
+	--adw-shade: rgba(85, 85, 85, 0.25) !important;
+	--adw-banner: #555555 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #555555 !important;
+	--adw-user-online: #5555ff !important;
+	--adw-user-ingame: #00aa00 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #5555ff !important;
+	--adw-accent-teal: #00aaaa !important;
+	--adw-accent-green: #00aa00 !important;
+	--adw-accent-yellow: #ffff55 !important;
+	--adw-accent-orange: #ff5555 !important;
+	--adw-accent-red: #aa0000 !important;
+	--adw-accent-pink: #ff55ff !important;
+	--adw-accent-purple: #ff55ff !important;
+	--adw-accent-slate: #555555 !important;
+}

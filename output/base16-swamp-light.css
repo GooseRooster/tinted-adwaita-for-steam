@@ -1,0 +1,86 @@
+/* Swamp Light by Masroof Maindak (https://github.com/masroof-maindak) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: light !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #bf7979 !important;
+	--adw-accent-bg-dark: #bf7979 !important;
+	--adw-accent-fg: #f1e3d1 !important;
+
+	--adw-destructive-bg-light: #d09700 !important;
+	--adw-destructive-bg-dark: #d09700 !important;
+	--adw-destructive-fg: #f1e3d1 !important;
+
+	--adw-success-bg-light: #908d6a !important;
+	--adw-success-bg-dark: #908d6a !important;
+	--adw-success-fg: #f1e3d1 !important;
+
+	--adw-warning-bg-light: #993333 !important;
+	--adw-warning-bg-dark: #993333 !important;
+	--adw-warning-fg: #f1e3d1 !important;
+
+	--adw-error-bg-light: #d09700 !important;
+	--adw-error-bg-dark: #d09700 !important;
+	--adw-error-fg: #f1e3d1 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #f1e3d1 !important;
+	--adw-window-fg: #64513e !important;
+
+	--adw-view-bg: #f1e3d1 !important;
+	--adw-view-fg: #64513e !important;
+
+	--adw-headerbar-bg: #ddcebc !important;
+	--adw-headerbar-fg: #64513e !important;
+	--adw-headerbar-backdrop: #f1e3d1 !important;
+	--adw-headerbar-shade: rgba(181, 164, 146, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(181, 164, 146, 0.9) !important;
+
+	--adw-sidebar-bg: #ddcebc !important;
+	--adw-sidebar-fg: #64513e !important;
+	--adw-sidebar-backdrop: #f1e3d1 !important;
+	--adw-sidebar-shade: rgba(181, 164, 146, 0.25) !important;
+	--adw-sidebar-border: #b5a492 !important;
+
+	--adw-secondary-sidebar-bg: #c9b9a7 !important;
+	--adw-secondary-sidebar-fg: #64513e !important;
+	--adw-secondary-sidebar-backdrop: #ddcebc !important;
+	--adw-secondary-sidebar-shade: rgba(181, 164, 146, 0.25) !important;
+	--adw-secondary-sidebar-border: #b5a492 !important;
+
+	--adw-card-bg: #c9b9a7 !important;
+	--adw-card-fg: #64513e !important;
+	--adw-card-shade: rgba(181, 164, 146, 0.36) !important;
+
+	--adw-dialog-bg: #c9b9a7 !important;
+	--adw-dialog-fg: #64513e !important;
+
+	--adw-popover-bg: #c9b9a7 !important;
+	--adw-popover-fg: #64513e !important;
+	--adw-popover-shade: rgba(181, 164, 146, 0.25) !important;
+
+	--adw-thumbnail-bg: #c9b9a7 !important;
+	--adw-thumbnail-fg: #64513e !important;
+
+	--adw-shade: rgba(181, 164, 146, 0.25) !important;
+	--adw-banner: #b5a492 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #b5a492 !important;
+	--adw-user-online: #bf7979 !important;
+	--adw-user-ingame: #908d6a !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #bf7979 !important;
+	--adw-accent-teal: #d09700 !important;
+	--adw-accent-green: #908d6a !important;
+	--adw-accent-yellow: #993333 !important;
+	--adw-accent-orange: #64513e !important;
+	--adw-accent-red: #d09700 !important;
+	--adw-accent-pink: #9e5581 !important;
+	--adw-accent-purple: #9e5581 !important;
+	--adw-accent-slate: #b5a492 !important;
+}

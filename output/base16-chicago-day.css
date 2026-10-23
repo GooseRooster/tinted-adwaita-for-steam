@@ -1,0 +1,86 @@
+/* Chicago Day by Wendell, Ryan &lt;ryanjwendell@gmail.com&gt; */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: light !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #522398 !important;
+	--adw-accent-bg-dark: #522398 !important;
+	--adw-accent-fg: #e8f0ea !important;
+
+	--adw-destructive-bg-light: #c60c30 !important;
+	--adw-destructive-bg-dark: #c60c30 !important;
+	--adw-destructive-fg: #e8f0ea !important;
+
+	--adw-success-bg-light: #009b3a !important;
+	--adw-success-bg-dark: #009b3a !important;
+	--adw-success-fg: #e8f0ea !important;
+
+	--adw-warning-bg-light: #968400 !important;
+	--adw-warning-bg-dark: #968400 !important;
+	--adw-warning-fg: #e8f0ea !important;
+
+	--adw-error-bg-light: #c60c30 !important;
+	--adw-error-bg-dark: #c60c30 !important;
+	--adw-error-fg: #e8f0ea !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #e8f0ea !important;
+	--adw-window-fg: #364c40 !important;
+
+	--adw-view-bg: #e8f0ea !important;
+	--adw-view-fg: #364c40 !important;
+
+	--adw-headerbar-bg: #d1e0d7 !important;
+	--adw-headerbar-fg: #364c40 !important;
+	--adw-headerbar-backdrop: #e8f0ea !important;
+	--adw-headerbar-shade: rgba(138, 154, 145, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(138, 154, 145, 0.9) !important;
+
+	--adw-sidebar-bg: #d1e0d7 !important;
+	--adw-sidebar-fg: #364c40 !important;
+	--adw-sidebar-backdrop: #e8f0ea !important;
+	--adw-sidebar-shade: rgba(138, 154, 145, 0.25) !important;
+	--adw-sidebar-border: #8a9a91 !important;
+
+	--adw-secondary-sidebar-bg: #b9d0c3 !important;
+	--adw-secondary-sidebar-fg: #364c40 !important;
+	--adw-secondary-sidebar-backdrop: #d1e0d7 !important;
+	--adw-secondary-sidebar-shade: rgba(138, 154, 145, 0.25) !important;
+	--adw-secondary-sidebar-border: #8a9a91 !important;
+
+	--adw-card-bg: #b9d0c3 !important;
+	--adw-card-fg: #364c40 !important;
+	--adw-card-shade: rgba(138, 154, 145, 0.36) !important;
+
+	--adw-dialog-bg: #b9d0c3 !important;
+	--adw-dialog-fg: #364c40 !important;
+
+	--adw-popover-bg: #b9d0c3 !important;
+	--adw-popover-fg: #364c40 !important;
+	--adw-popover-shade: rgba(138, 154, 145, 0.25) !important;
+
+	--adw-thumbnail-bg: #b9d0c3 !important;
+	--adw-thumbnail-fg: #364c40 !important;
+
+	--adw-shade: rgba(138, 154, 145, 0.25) !important;
+	--adw-banner: #8a9a91 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #8a9a91 !important;
+	--adw-user-online: #522398 !important;
+	--adw-user-ingame: #009b3a !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #522398 !important;
+	--adw-accent-teal: #00a1de !important;
+	--adw-accent-green: #009b3a !important;
+	--adw-accent-yellow: #968400 !important;
+	--adw-accent-orange: #f9461c !important;
+	--adw-accent-red: #c60c30 !important;
+	--adw-accent-pink: #e27ea6 !important;
+	--adw-accent-purple: #e27ea6 !important;
+	--adw-accent-slate: #8a9a91 !important;
+}

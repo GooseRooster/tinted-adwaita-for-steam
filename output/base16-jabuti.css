@@ -1,0 +1,86 @@
+/* Jabuti by https://github.com/notusknot */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #3fc6de !important;
+	--adw-accent-bg-dark: #3fc6de !important;
+	--adw-accent-fg: #292a37 !important;
+
+	--adw-destructive-bg-light: #ec6a88 !important;
+	--adw-destructive-bg-dark: #ec6a88 !important;
+	--adw-destructive-fg: #292a37 !important;
+
+	--adw-success-bg-light: #3fdaa4 !important;
+	--adw-success-bg-dark: #3fdaa4 !important;
+	--adw-success-fg: #292a37 !important;
+
+	--adw-warning-bg-light: #e1c697 !important;
+	--adw-warning-bg-dark: #e1c697 !important;
+	--adw-warning-fg: #292a37 !important;
+
+	--adw-error-bg-light: #ec6a88 !important;
+	--adw-error-bg-dark: #ec6a88 !important;
+	--adw-error-fg: #292a37 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #292a37 !important;
+	--adw-window-fg: #c0cbe3 !important;
+
+	--adw-view-bg: #292a37 !important;
+	--adw-view-fg: #c0cbe3 !important;
+
+	--adw-headerbar-bg: #343545 !important;
+	--adw-headerbar-fg: #c0cbe3 !important;
+	--adw-headerbar-backdrop: #292a37 !important;
+	--adw-headerbar-shade: rgba(69, 71, 93, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(69, 71, 93, 0.9) !important;
+
+	--adw-sidebar-bg: #343545 !important;
+	--adw-sidebar-fg: #c0cbe3 !important;
+	--adw-sidebar-backdrop: #292a37 !important;
+	--adw-sidebar-shade: rgba(69, 71, 93, 0.25) !important;
+	--adw-sidebar-border: #45475d !important;
+
+	--adw-secondary-sidebar-bg: #3c3e51 !important;
+	--adw-secondary-sidebar-fg: #c0cbe3 !important;
+	--adw-secondary-sidebar-backdrop: #343545 !important;
+	--adw-secondary-sidebar-shade: rgba(69, 71, 93, 0.25) !important;
+	--adw-secondary-sidebar-border: #45475d !important;
+
+	--adw-card-bg: #3c3e51 !important;
+	--adw-card-fg: #c0cbe3 !important;
+	--adw-card-shade: rgba(69, 71, 93, 0.36) !important;
+
+	--adw-dialog-bg: #3c3e51 !important;
+	--adw-dialog-fg: #c0cbe3 !important;
+
+	--adw-popover-bg: #3c3e51 !important;
+	--adw-popover-fg: #c0cbe3 !important;
+	--adw-popover-shade: rgba(69, 71, 93, 0.25) !important;
+
+	--adw-thumbnail-bg: #3c3e51 !important;
+	--adw-thumbnail-fg: #c0cbe3 !important;
+
+	--adw-shade: rgba(69, 71, 93, 0.25) !important;
+	--adw-banner: #45475d !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #45475d !important;
+	--adw-user-online: #3fc6de !important;
+	--adw-user-ingame: #3fdaa4 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #3fc6de !important;
+	--adw-accent-teal: #ff7eb6 !important;
+	--adw-accent-green: #3fdaa4 !important;
+	--adw-accent-yellow: #e1c697 !important;
+	--adw-accent-orange: #efb993 !important;
+	--adw-accent-red: #ec6a88 !important;
+	--adw-accent-pink: #be95ff !important;
+	--adw-accent-purple: #be95ff !important;
+	--adw-accent-slate: #45475d !important;
+}

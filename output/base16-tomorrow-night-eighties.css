@@ -1,0 +1,86 @@
+/* Tomorrow Night Eighties by Chris Kempson (http://chriskempson.com) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #6699cc !important;
+	--adw-accent-bg-dark: #6699cc !important;
+	--adw-accent-fg: #2d2d2d !important;
+
+	--adw-destructive-bg-light: #f2777a !important;
+	--adw-destructive-bg-dark: #f2777a !important;
+	--adw-destructive-fg: #2d2d2d !important;
+
+	--adw-success-bg-light: #99cc99 !important;
+	--adw-success-bg-dark: #99cc99 !important;
+	--adw-success-fg: #2d2d2d !important;
+
+	--adw-warning-bg-light: #ffcc66 !important;
+	--adw-warning-bg-dark: #ffcc66 !important;
+	--adw-warning-fg: #2d2d2d !important;
+
+	--adw-error-bg-light: #f2777a !important;
+	--adw-error-bg-dark: #f2777a !important;
+	--adw-error-fg: #2d2d2d !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #2d2d2d !important;
+	--adw-window-fg: #cccccc !important;
+
+	--adw-view-bg: #2d2d2d !important;
+	--adw-view-fg: #cccccc !important;
+
+	--adw-headerbar-bg: #393939 !important;
+	--adw-headerbar-fg: #cccccc !important;
+	--adw-headerbar-backdrop: #2d2d2d !important;
+	--adw-headerbar-shade: rgba(153, 153, 153, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(153, 153, 153, 0.9) !important;
+
+	--adw-sidebar-bg: #393939 !important;
+	--adw-sidebar-fg: #cccccc !important;
+	--adw-sidebar-backdrop: #2d2d2d !important;
+	--adw-sidebar-shade: rgba(153, 153, 153, 0.25) !important;
+	--adw-sidebar-border: #999999 !important;
+
+	--adw-secondary-sidebar-bg: #515151 !important;
+	--adw-secondary-sidebar-fg: #cccccc !important;
+	--adw-secondary-sidebar-backdrop: #393939 !important;
+	--adw-secondary-sidebar-shade: rgba(153, 153, 153, 0.25) !important;
+	--adw-secondary-sidebar-border: #999999 !important;
+
+	--adw-card-bg: #515151 !important;
+	--adw-card-fg: #cccccc !important;
+	--adw-card-shade: rgba(153, 153, 153, 0.36) !important;
+
+	--adw-dialog-bg: #515151 !important;
+	--adw-dialog-fg: #cccccc !important;
+
+	--adw-popover-bg: #515151 !important;
+	--adw-popover-fg: #cccccc !important;
+	--adw-popover-shade: rgba(153, 153, 153, 0.25) !important;
+
+	--adw-thumbnail-bg: #515151 !important;
+	--adw-thumbnail-fg: #cccccc !important;
+
+	--adw-shade: rgba(153, 153, 153, 0.25) !important;
+	--adw-banner: #999999 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #999999 !important;
+	--adw-user-online: #6699cc !important;
+	--adw-user-ingame: #99cc99 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #6699cc !important;
+	--adw-accent-teal: #66cccc !important;
+	--adw-accent-green: #99cc99 !important;
+	--adw-accent-yellow: #ffcc66 !important;
+	--adw-accent-orange: #f99157 !important;
+	--adw-accent-red: #f2777a !important;
+	--adw-accent-pink: #cc99cc !important;
+	--adw-accent-purple: #cc99cc !important;
+	--adw-accent-slate: #999999 !important;
+}

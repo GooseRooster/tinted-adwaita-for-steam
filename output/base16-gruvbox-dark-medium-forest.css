@@ -1,0 +1,86 @@
+/* Gruvbox Dark Medium (Forest) by Muhammad Talha (muhammadtalha.quant@gmail.com), morhetz (https://github.com/morhetz/gruvbox) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #b8bb26 !important;
+	--adw-accent-bg-dark: #b8bb26 !important;
+	--adw-accent-fg: #282828 !important;
+
+	--adw-destructive-bg-light: #fb4934 !important;
+	--adw-destructive-bg-dark: #fb4934 !important;
+	--adw-destructive-fg: #282828 !important;
+
+	--adw-success-bg-light: #b8bb26 !important;
+	--adw-success-bg-dark: #b8bb26 !important;
+	--adw-success-fg: #282828 !important;
+
+	--adw-warning-bg-light: #fabd2f !important;
+	--adw-warning-bg-dark: #fabd2f !important;
+	--adw-warning-fg: #282828 !important;
+
+	--adw-error-bg-light: #fb4934 !important;
+	--adw-error-bg-dark: #fb4934 !important;
+	--adw-error-fg: #282828 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #282828 !important;
+	--adw-window-fg: #d5c4a1 !important;
+
+	--adw-view-bg: #282828 !important;
+	--adw-view-fg: #d5c4a1 !important;
+
+	--adw-headerbar-bg: #3c3836 !important;
+	--adw-headerbar-fg: #d5c4a1 !important;
+	--adw-headerbar-backdrop: #282828 !important;
+	--adw-headerbar-shade: rgba(102, 92, 80, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(102, 92, 80, 0.9) !important;
+
+	--adw-sidebar-bg: #3c3836 !important;
+	--adw-sidebar-fg: #d5c4a1 !important;
+	--adw-sidebar-backdrop: #282828 !important;
+	--adw-sidebar-shade: rgba(102, 92, 80, 0.25) !important;
+	--adw-sidebar-border: #665c50 !important;
+
+	--adw-secondary-sidebar-bg: #504945 !important;
+	--adw-secondary-sidebar-fg: #d5c4a1 !important;
+	--adw-secondary-sidebar-backdrop: #3c3836 !important;
+	--adw-secondary-sidebar-shade: rgba(102, 92, 80, 0.25) !important;
+	--adw-secondary-sidebar-border: #665c50 !important;
+
+	--adw-card-bg: #504945 !important;
+	--adw-card-fg: #d5c4a1 !important;
+	--adw-card-shade: rgba(102, 92, 80, 0.36) !important;
+
+	--adw-dialog-bg: #504945 !important;
+	--adw-dialog-fg: #d5c4a1 !important;
+
+	--adw-popover-bg: #504945 !important;
+	--adw-popover-fg: #d5c4a1 !important;
+	--adw-popover-shade: rgba(102, 92, 80, 0.25) !important;
+
+	--adw-thumbnail-bg: #504945 !important;
+	--adw-thumbnail-fg: #d5c4a1 !important;
+
+	--adw-shade: rgba(102, 92, 80, 0.25) !important;
+	--adw-banner: #665c50 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #665c50 !important;
+	--adw-user-online: #b8bb26 !important;
+	--adw-user-ingame: #b8bb26 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #b8bb26 !important;
+	--adw-accent-teal: #5f6c1f !important;
+	--adw-accent-green: #b8bb26 !important;
+	--adw-accent-yellow: #fabd2f !important;
+	--adw-accent-orange: #fe8019 !important;
+	--adw-accent-red: #fb4934 !important;
+	--adw-accent-pink: #96bda2 !important;
+	--adw-accent-purple: #96bda2 !important;
+	--adw-accent-slate: #665c50 !important;
+}

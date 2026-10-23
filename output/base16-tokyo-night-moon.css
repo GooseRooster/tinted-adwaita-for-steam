@@ -1,0 +1,86 @@
+/* Tokyo Night Moon by Ólafur Bjarki Bogason */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #82aaff !important;
+	--adw-accent-bg-dark: #82aaff !important;
+	--adw-accent-fg: #222436 !important;
+
+	--adw-destructive-bg-light: #ff757f !important;
+	--adw-destructive-bg-dark: #ff757f !important;
+	--adw-destructive-fg: #222436 !important;
+
+	--adw-success-bg-light: #c3e88d !important;
+	--adw-success-bg-dark: #c3e88d !important;
+	--adw-success-fg: #222436 !important;
+
+	--adw-warning-bg-light: #ffdf77 !important;
+	--adw-warning-bg-dark: #ffdf77 !important;
+	--adw-warning-fg: #222436 !important;
+
+	--adw-error-bg-light: #ff757f !important;
+	--adw-error-bg-dark: #ff757f !important;
+	--adw-error-fg: #222436 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #222436 !important;
+	--adw-window-fg: #828bb8 !important;
+
+	--adw-view-bg: #222436 !important;
+	--adw-view-fg: #828bb8 !important;
+
+	--adw-headerbar-bg: #1e2030 !important;
+	--adw-headerbar-fg: #828bb8 !important;
+	--adw-headerbar-backdrop: #222436 !important;
+	--adw-headerbar-shade: rgba(59, 66, 97, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(59, 66, 97, 0.9) !important;
+
+	--adw-sidebar-bg: #1e2030 !important;
+	--adw-sidebar-fg: #828bb8 !important;
+	--adw-sidebar-backdrop: #222436 !important;
+	--adw-sidebar-shade: rgba(59, 66, 97, 0.25) !important;
+	--adw-sidebar-border: #3b4261 !important;
+
+	--adw-secondary-sidebar-bg: #2d3f76 !important;
+	--adw-secondary-sidebar-fg: #828bb8 !important;
+	--adw-secondary-sidebar-backdrop: #1e2030 !important;
+	--adw-secondary-sidebar-shade: rgba(59, 66, 97, 0.25) !important;
+	--adw-secondary-sidebar-border: #3b4261 !important;
+
+	--adw-card-bg: #2d3f76 !important;
+	--adw-card-fg: #828bb8 !important;
+	--adw-card-shade: rgba(59, 66, 97, 0.36) !important;
+
+	--adw-dialog-bg: #2d3f76 !important;
+	--adw-dialog-fg: #828bb8 !important;
+
+	--adw-popover-bg: #2d3f76 !important;
+	--adw-popover-fg: #828bb8 !important;
+	--adw-popover-shade: rgba(59, 66, 97, 0.25) !important;
+
+	--adw-thumbnail-bg: #2d3f76 !important;
+	--adw-thumbnail-fg: #828bb8 !important;
+
+	--adw-shade: rgba(59, 66, 97, 0.25) !important;
+	--adw-banner: #3b4261 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #3b4261 !important;
+	--adw-user-online: #82aaff !important;
+	--adw-user-ingame: #c3e88d !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #82aaff !important;
+	--adw-accent-teal: #86e1fc !important;
+	--adw-accent-green: #c3e88d !important;
+	--adw-accent-yellow: #ffdf77 !important;
+	--adw-accent-orange: #ffc777 !important;
+	--adw-accent-red: #ff757f !important;
+	--adw-accent-pink: #fca7ea !important;
+	--adw-accent-purple: #fca7ea !important;
+	--adw-accent-slate: #3b4261 !important;
+}

@@ -1,0 +1,86 @@
+/* Gruvbox Material Light, Soft by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: light !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #45707a !important;
+	--adw-accent-bg-dark: #45707a !important;
+	--adw-accent-fg: #f2e5bc !important;
+
+	--adw-destructive-bg-light: #c14a4a !important;
+	--adw-destructive-bg-dark: #c14a4a !important;
+	--adw-destructive-fg: #f2e5bc !important;
+
+	--adw-success-bg-light: #6c782e !important;
+	--adw-success-bg-dark: #6c782e !important;
+	--adw-success-fg: #f2e5bc !important;
+
+	--adw-warning-bg-light: #b47109 !important;
+	--adw-warning-bg-dark: #b47109 !important;
+	--adw-warning-fg: #f2e5bc !important;
+
+	--adw-error-bg-light: #c14a4a !important;
+	--adw-error-bg-dark: #c14a4a !important;
+	--adw-error-fg: #f2e5bc !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #f2e5bc !important;
+	--adw-window-fg: #654735 !important;
+
+	--adw-view-bg: #f2e5bc !important;
+	--adw-view-fg: #654735 !important;
+
+	--adw-headerbar-bg: #ebdbb2 !important;
+	--adw-headerbar-fg: #654735 !important;
+	--adw-headerbar-backdrop: #f2e5bc !important;
+	--adw-headerbar-shade: rgba(168, 153, 132, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(168, 153, 132, 0.9) !important;
+
+	--adw-sidebar-bg: #ebdbb2 !important;
+	--adw-sidebar-fg: #654735 !important;
+	--adw-sidebar-backdrop: #f2e5bc !important;
+	--adw-sidebar-shade: rgba(168, 153, 132, 0.25) !important;
+	--adw-sidebar-border: #a89984 !important;
+
+	--adw-secondary-sidebar-bg: #c9b99a !important;
+	--adw-secondary-sidebar-fg: #654735 !important;
+	--adw-secondary-sidebar-backdrop: #ebdbb2 !important;
+	--adw-secondary-sidebar-shade: rgba(168, 153, 132, 0.25) !important;
+	--adw-secondary-sidebar-border: #a89984 !important;
+
+	--adw-card-bg: #c9b99a !important;
+	--adw-card-fg: #654735 !important;
+	--adw-card-shade: rgba(168, 153, 132, 0.36) !important;
+
+	--adw-dialog-bg: #c9b99a !important;
+	--adw-dialog-fg: #654735 !important;
+
+	--adw-popover-bg: #c9b99a !important;
+	--adw-popover-fg: #654735 !important;
+	--adw-popover-shade: rgba(168, 153, 132, 0.25) !important;
+
+	--adw-thumbnail-bg: #c9b99a !important;
+	--adw-thumbnail-fg: #654735 !important;
+
+	--adw-shade: rgba(168, 153, 132, 0.25) !important;
+	--adw-banner: #a89984 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #a89984 !important;
+	--adw-user-online: #45707a !important;
+	--adw-user-ingame: #6c782e !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #45707a !important;
+	--adw-accent-teal: #4c7a5d !important;
+	--adw-accent-green: #6c782e !important;
+	--adw-accent-yellow: #b47109 !important;
+	--adw-accent-orange: #c35e0a !important;
+	--adw-accent-red: #c14a4a !important;
+	--adw-accent-pink: #945e80 !important;
+	--adw-accent-purple: #945e80 !important;
+	--adw-accent-slate: #a89984 !important;
+}

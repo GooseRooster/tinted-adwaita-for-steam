@@ -1,0 +1,86 @@
+/* Sakura by Misterio77 (http://github.com/Misterio77) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: light !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #006e93 !important;
+	--adw-accent-bg-dark: #006e93 !important;
+	--adw-accent-fg: #feedf3 !important;
+
+	--adw-destructive-bg-light: #df2d52 !important;
+	--adw-destructive-bg-dark: #df2d52 !important;
+	--adw-destructive-fg: #feedf3 !important;
+
+	--adw-success-bg-light: #2e916d !important;
+	--adw-success-bg-dark: #2e916d !important;
+	--adw-success-fg: #feedf3 !important;
+
+	--adw-warning-bg-light: #c29461 !important;
+	--adw-warning-bg-dark: #c29461 !important;
+	--adw-warning-fg: #feedf3 !important;
+
+	--adw-error-bg-light: #df2d52 !important;
+	--adw-error-bg-dark: #df2d52 !important;
+	--adw-error-fg: #feedf3 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #feedf3 !important;
+	--adw-window-fg: #564448 !important;
+
+	--adw-view-bg: #feedf3 !important;
+	--adw-view-fg: #564448 !important;
+
+	--adw-headerbar-bg: #f8e2e7 !important;
+	--adw-headerbar-fg: #564448 !important;
+	--adw-headerbar-backdrop: #feedf3 !important;
+	--adw-headerbar-shade: rgba(117, 95, 100, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(117, 95, 100, 0.9) !important;
+
+	--adw-sidebar-bg: #f8e2e7 !important;
+	--adw-sidebar-fg: #564448 !important;
+	--adw-sidebar-backdrop: #feedf3 !important;
+	--adw-sidebar-shade: rgba(117, 95, 100, 0.25) !important;
+	--adw-sidebar-border: #755f64 !important;
+
+	--adw-secondary-sidebar-bg: #e0ccd1 !important;
+	--adw-secondary-sidebar-fg: #564448 !important;
+	--adw-secondary-sidebar-backdrop: #f8e2e7 !important;
+	--adw-secondary-sidebar-shade: rgba(117, 95, 100, 0.25) !important;
+	--adw-secondary-sidebar-border: #755f64 !important;
+
+	--adw-card-bg: #e0ccd1 !important;
+	--adw-card-fg: #564448 !important;
+	--adw-card-shade: rgba(117, 95, 100, 0.36) !important;
+
+	--adw-dialog-bg: #e0ccd1 !important;
+	--adw-dialog-fg: #564448 !important;
+
+	--adw-popover-bg: #e0ccd1 !important;
+	--adw-popover-fg: #564448 !important;
+	--adw-popover-shade: rgba(117, 95, 100, 0.25) !important;
+
+	--adw-thumbnail-bg: #e0ccd1 !important;
+	--adw-thumbnail-fg: #564448 !important;
+
+	--adw-shade: rgba(117, 95, 100, 0.25) !important;
+	--adw-banner: #755f64 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #755f64 !important;
+	--adw-user-online: #006e93 !important;
+	--adw-user-ingame: #2e916d !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #006e93 !important;
+	--adw-accent-teal: #1d8991 !important;
+	--adw-accent-green: #2e916d !important;
+	--adw-accent-yellow: #c29461 !important;
+	--adw-accent-orange: #f6661e !important;
+	--adw-accent-red: #df2d52 !important;
+	--adw-accent-pink: #5e2180 !important;
+	--adw-accent-purple: #5e2180 !important;
+	--adw-accent-slate: #755f64 !important;
+}

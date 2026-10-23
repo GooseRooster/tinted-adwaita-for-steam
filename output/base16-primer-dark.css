@@ -1,0 +1,86 @@
+/* Primer Dark by Jimmy Lin */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #58a6ff !important;
+	--adw-accent-bg-dark: #58a6ff !important;
+	--adw-accent-fg: #010409 !important;
+
+	--adw-destructive-bg-light: #ff7b72 !important;
+	--adw-destructive-bg-dark: #ff7b72 !important;
+	--adw-destructive-fg: #010409 !important;
+
+	--adw-success-bg-light: #3fb950 !important;
+	--adw-success-bg-dark: #3fb950 !important;
+	--adw-success-fg: #010409 !important;
+
+	--adw-warning-bg-light: #d29922 !important;
+	--adw-warning-bg-dark: #d29922 !important;
+	--adw-warning-fg: #010409 !important;
+
+	--adw-error-bg-light: #ff7b72 !important;
+	--adw-error-bg-dark: #ff7b72 !important;
+	--adw-error-fg: #010409 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #010409 !important;
+	--adw-window-fg: #b1bac4 !important;
+
+	--adw-view-bg: #010409 !important;
+	--adw-view-fg: #b1bac4 !important;
+
+	--adw-headerbar-bg: #21262d !important;
+	--adw-headerbar-fg: #b1bac4 !important;
+	--adw-headerbar-backdrop: #010409 !important;
+	--adw-headerbar-shade: rgba(72, 79, 88, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(72, 79, 88, 0.9) !important;
+
+	--adw-sidebar-bg: #21262d !important;
+	--adw-sidebar-fg: #b1bac4 !important;
+	--adw-sidebar-backdrop: #010409 !important;
+	--adw-sidebar-shade: rgba(72, 79, 88, 0.25) !important;
+	--adw-sidebar-border: #484f58 !important;
+
+	--adw-secondary-sidebar-bg: #30363d !important;
+	--adw-secondary-sidebar-fg: #b1bac4 !important;
+	--adw-secondary-sidebar-backdrop: #21262d !important;
+	--adw-secondary-sidebar-shade: rgba(72, 79, 88, 0.25) !important;
+	--adw-secondary-sidebar-border: #484f58 !important;
+
+	--adw-card-bg: #30363d !important;
+	--adw-card-fg: #b1bac4 !important;
+	--adw-card-shade: rgba(72, 79, 88, 0.36) !important;
+
+	--adw-dialog-bg: #30363d !important;
+	--adw-dialog-fg: #b1bac4 !important;
+
+	--adw-popover-bg: #30363d !important;
+	--adw-popover-fg: #b1bac4 !important;
+	--adw-popover-shade: rgba(72, 79, 88, 0.25) !important;
+
+	--adw-thumbnail-bg: #30363d !important;
+	--adw-thumbnail-fg: #b1bac4 !important;
+
+	--adw-shade: rgba(72, 79, 88, 0.25) !important;
+	--adw-banner: #484f58 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #484f58 !important;
+	--adw-user-online: #58a6ff !important;
+	--adw-user-ingame: #3fb950 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #58a6ff !important;
+	--adw-accent-teal: #a5d6ff !important;
+	--adw-accent-green: #3fb950 !important;
+	--adw-accent-yellow: #d29922 !important;
+	--adw-accent-orange: #f0883e !important;
+	--adw-accent-red: #ff7b72 !important;
+	--adw-accent-pink: #f778ba !important;
+	--adw-accent-purple: #f778ba !important;
+	--adw-accent-slate: #484f58 !important;
+}

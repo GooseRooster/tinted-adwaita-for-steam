@@ -1,0 +1,86 @@
+/* Pastelón de Amarillos Dark by Richard Martinez (https://sonofmartinus.com) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #4c84bd !important;
+	--adw-accent-bg-dark: #4c84bd !important;
+	--adw-accent-fg: #180d18 !important;
+
+	--adw-destructive-bg-light: #d95361 !important;
+	--adw-destructive-bg-dark: #d95361 !important;
+	--adw-destructive-fg: #180d18 !important;
+
+	--adw-success-bg-light: #36aa72 !important;
+	--adw-success-bg-dark: #36aa72 !important;
+	--adw-success-fg: #180d18 !important;
+
+	--adw-warning-bg-light: #d8a93a !important;
+	--adw-warning-bg-dark: #d8a93a !important;
+	--adw-warning-fg: #180d18 !important;
+
+	--adw-error-bg-light: #d95361 !important;
+	--adw-error-bg-dark: #d95361 !important;
+	--adw-error-fg: #180d18 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #180d18 !important;
+	--adw-window-fg: #ffe0a3 !important;
+
+	--adw-view-bg: #180d18 !important;
+	--adw-view-fg: #ffe0a3 !important;
+
+	--adw-headerbar-bg: #2a1424 !important;
+	--adw-headerbar-fg: #ffe0a3 !important;
+	--adw-headerbar-backdrop: #180d18 !important;
+	--adw-headerbar-shade: rgba(160, 116, 124, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(160, 116, 124, 0.9) !important;
+
+	--adw-sidebar-bg: #2a1424 !important;
+	--adw-sidebar-fg: #ffe0a3 !important;
+	--adw-sidebar-backdrop: #180d18 !important;
+	--adw-sidebar-shade: rgba(160, 116, 124, 0.25) !important;
+	--adw-sidebar-border: #a0747c !important;
+
+	--adw-secondary-sidebar-bg: #432031 !important;
+	--adw-secondary-sidebar-fg: #ffe0a3 !important;
+	--adw-secondary-sidebar-backdrop: #2a1424 !important;
+	--adw-secondary-sidebar-shade: rgba(160, 116, 124, 0.25) !important;
+	--adw-secondary-sidebar-border: #a0747c !important;
+
+	--adw-card-bg: #432031 !important;
+	--adw-card-fg: #ffe0a3 !important;
+	--adw-card-shade: rgba(160, 116, 124, 0.36) !important;
+
+	--adw-dialog-bg: #432031 !important;
+	--adw-dialog-fg: #ffe0a3 !important;
+
+	--adw-popover-bg: #432031 !important;
+	--adw-popover-fg: #ffe0a3 !important;
+	--adw-popover-shade: rgba(160, 116, 124, 0.25) !important;
+
+	--adw-thumbnail-bg: #432031 !important;
+	--adw-thumbnail-fg: #ffe0a3 !important;
+
+	--adw-shade: rgba(160, 116, 124, 0.25) !important;
+	--adw-banner: #a0747c !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #a0747c !important;
+	--adw-user-online: #4c84bd !important;
+	--adw-user-ingame: #36aa72 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #4c84bd !important;
+	--adw-accent-teal: #31a99e !important;
+	--adw-accent-green: #36aa72 !important;
+	--adw-accent-yellow: #d8a93a !important;
+	--adw-accent-orange: #d98328 !important;
+	--adw-accent-red: #d95361 !important;
+	--adw-accent-pink: #b765b0 !important;
+	--adw-accent-purple: #b765b0 !important;
+	--adw-accent-slate: #a0747c !important;
+}

@@ -1,0 +1,86 @@
+/* Tokyo Night Terminal Storm by Michaël Ball */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #7aa2f7 !important;
+	--adw-accent-bg-dark: #7aa2f7 !important;
+	--adw-accent-fg: #24283b !important;
+
+	--adw-destructive-bg-light: #f7768e !important;
+	--adw-destructive-bg-dark: #f7768e !important;
+	--adw-destructive-fg: #24283b !important;
+
+	--adw-success-bg-light: #41a6b5 !important;
+	--adw-success-bg-dark: #41a6b5 !important;
+	--adw-success-fg: #24283b !important;
+
+	--adw-warning-bg-light: #e0af68 !important;
+	--adw-warning-bg-dark: #e0af68 !important;
+	--adw-warning-fg: #24283b !important;
+
+	--adw-error-bg-light: #f7768e !important;
+	--adw-error-bg-dark: #f7768e !important;
+	--adw-error-fg: #24283b !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #24283b !important;
+	--adw-window-fg: #787c99 !important;
+
+	--adw-view-bg: #24283b !important;
+	--adw-view-fg: #787c99 !important;
+
+	--adw-headerbar-bg: #1a1b26 !important;
+	--adw-headerbar-fg: #787c99 !important;
+	--adw-headerbar-backdrop: #24283b !important;
+	--adw-headerbar-shade: rgba(68, 75, 106, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(68, 75, 106, 0.9) !important;
+
+	--adw-sidebar-bg: #1a1b26 !important;
+	--adw-sidebar-fg: #787c99 !important;
+	--adw-sidebar-backdrop: #24283b !important;
+	--adw-sidebar-shade: rgba(68, 75, 106, 0.25) !important;
+	--adw-sidebar-border: #444b6a !important;
+
+	--adw-secondary-sidebar-bg: #343a52 !important;
+	--adw-secondary-sidebar-fg: #787c99 !important;
+	--adw-secondary-sidebar-backdrop: #1a1b26 !important;
+	--adw-secondary-sidebar-shade: rgba(68, 75, 106, 0.25) !important;
+	--adw-secondary-sidebar-border: #444b6a !important;
+
+	--adw-card-bg: #343a52 !important;
+	--adw-card-fg: #787c99 !important;
+	--adw-card-shade: rgba(68, 75, 106, 0.36) !important;
+
+	--adw-dialog-bg: #343a52 !important;
+	--adw-dialog-fg: #787c99 !important;
+
+	--adw-popover-bg: #343a52 !important;
+	--adw-popover-fg: #787c99 !important;
+	--adw-popover-shade: rgba(68, 75, 106, 0.25) !important;
+
+	--adw-thumbnail-bg: #343a52 !important;
+	--adw-thumbnail-fg: #787c99 !important;
+
+	--adw-shade: rgba(68, 75, 106, 0.25) !important;
+	--adw-banner: #444b6a !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #444b6a !important;
+	--adw-user-online: #7aa2f7 !important;
+	--adw-user-ingame: #41a6b5 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #7aa2f7 !important;
+	--adw-accent-teal: #7dcfff !important;
+	--adw-accent-green: #41a6b5 !important;
+	--adw-accent-yellow: #e0af68 !important;
+	--adw-accent-orange: #ff9e64 !important;
+	--adw-accent-red: #f7768e !important;
+	--adw-accent-pink: #bb9af7 !important;
+	--adw-accent-purple: #bb9af7 !important;
+	--adw-accent-slate: #444b6a !important;
+}

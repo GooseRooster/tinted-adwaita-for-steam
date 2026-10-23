@@ -1,0 +1,86 @@
+/* Chinoiserie Morandi by Di Wang (https://cs.cmu.edu/~diw3) */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #839ec9 !important;
+	--adw-accent-bg-dark: #839ec9 !important;
+	--adw-accent-fg: #1d1d1d !important;
+
+	--adw-destructive-bg-light: #c06061 !important;
+	--adw-destructive-bg-dark: #c06061 !important;
+	--adw-destructive-fg: #1d1d1d !important;
+
+	--adw-success-bg-light: #8ca07b !important;
+	--adw-success-bg-dark: #8ca07b !important;
+	--adw-success-fg: #1d1d1d !important;
+
+	--adw-warning-bg-light: #e5bc84 !important;
+	--adw-warning-bg-dark: #e5bc84 !important;
+	--adw-warning-fg: #1d1d1d !important;
+
+	--adw-error-bg-light: #c06061 !important;
+	--adw-error-bg-dark: #c06061 !important;
+	--adw-error-fg: #1d1d1d !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #1d1d1d !important;
+	--adw-window-fg: #c4cbcf !important;
+
+	--adw-view-bg: #1d1d1d !important;
+	--adw-view-fg: #c4cbcf !important;
+
+	--adw-headerbar-bg: #282828 !important;
+	--adw-headerbar-fg: #c4cbcf !important;
+	--adw-headerbar-backdrop: #1d1d1d !important;
+	--adw-headerbar-shade: rgba(145, 128, 114, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(145, 128, 114, 0.9) !important;
+
+	--adw-sidebar-bg: #282828 !important;
+	--adw-sidebar-fg: #c4cbcf !important;
+	--adw-sidebar-backdrop: #1d1d1d !important;
+	--adw-sidebar-shade: rgba(145, 128, 114, 0.25) !important;
+	--adw-sidebar-border: #918072 !important;
+
+	--adw-secondary-sidebar-bg: #373737 !important;
+	--adw-secondary-sidebar-fg: #c4cbcf !important;
+	--adw-secondary-sidebar-backdrop: #282828 !important;
+	--adw-secondary-sidebar-shade: rgba(145, 128, 114, 0.25) !important;
+	--adw-secondary-sidebar-border: #918072 !important;
+
+	--adw-card-bg: #373737 !important;
+	--adw-card-fg: #c4cbcf !important;
+	--adw-card-shade: rgba(145, 128, 114, 0.36) !important;
+
+	--adw-dialog-bg: #373737 !important;
+	--adw-dialog-fg: #c4cbcf !important;
+
+	--adw-popover-bg: #373737 !important;
+	--adw-popover-fg: #c4cbcf !important;
+	--adw-popover-shade: rgba(145, 128, 114, 0.25) !important;
+
+	--adw-thumbnail-bg: #373737 !important;
+	--adw-thumbnail-fg: #c4cbcf !important;
+
+	--adw-shade: rgba(145, 128, 114, 0.25) !important;
+	--adw-banner: #918072 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #918072 !important;
+	--adw-user-online: #839ec9 !important;
+	--adw-user-ingame: #8ca07b !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #839ec9 !important;
+	--adw-accent-teal: #5e8c9b !important;
+	--adw-accent-green: #8ca07b !important;
+	--adw-accent-yellow: #e5bc84 !important;
+	--adw-accent-orange: #ff937f !important;
+	--adw-accent-red: #c06061 !important;
+	--adw-accent-pink: #98a1d8 !important;
+	--adw-accent-purple: #98a1d8 !important;
+	--adw-accent-slate: #918072 !important;
+}

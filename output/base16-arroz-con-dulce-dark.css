@@ -1,0 +1,86 @@
+/* Arroz con Dulce Dark by Richard Martinez */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #b99ac8 !important;
+	--adw-accent-bg-dark: #b99ac8 !important;
+	--adw-accent-fg: #21140f !important;
+
+	--adw-destructive-bg-light: #e07a8a !important;
+	--adw-destructive-bg-dark: #e07a8a !important;
+	--adw-destructive-fg: #21140f !important;
+
+	--adw-success-bg-light: #d47a50 !important;
+	--adw-success-bg-dark: #d47a50 !important;
+	--adw-success-fg: #21140f !important;
+
+	--adw-warning-bg-light: #d9a441 !important;
+	--adw-warning-bg-dark: #d9a441 !important;
+	--adw-warning-fg: #21140f !important;
+
+	--adw-error-bg-light: #e07a8a !important;
+	--adw-error-bg-dark: #e07a8a !important;
+	--adw-error-fg: #21140f !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #21140f !important;
+	--adw-window-fg: #f2dfc0 !important;
+
+	--adw-view-bg: #21140f !important;
+	--adw-view-fg: #f2dfc0 !important;
+
+	--adw-headerbar-bg: #2c1a13 !important;
+	--adw-headerbar-fg: #f2dfc0 !important;
+	--adw-headerbar-backdrop: #21140f !important;
+	--adw-headerbar-shade: rgba(169, 133, 104, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(169, 133, 104, 0.9) !important;
+
+	--adw-sidebar-bg: #2c1a13 !important;
+	--adw-sidebar-fg: #f2dfc0 !important;
+	--adw-sidebar-backdrop: #21140f !important;
+	--adw-sidebar-shade: rgba(169, 133, 104, 0.25) !important;
+	--adw-sidebar-border: #a98568 !important;
+
+	--adw-secondary-sidebar-bg: #3b241a !important;
+	--adw-secondary-sidebar-fg: #f2dfc0 !important;
+	--adw-secondary-sidebar-backdrop: #2c1a13 !important;
+	--adw-secondary-sidebar-shade: rgba(169, 133, 104, 0.25) !important;
+	--adw-secondary-sidebar-border: #a98568 !important;
+
+	--adw-card-bg: #3b241a !important;
+	--adw-card-fg: #f2dfc0 !important;
+	--adw-card-shade: rgba(169, 133, 104, 0.36) !important;
+
+	--adw-dialog-bg: #3b241a !important;
+	--adw-dialog-fg: #f2dfc0 !important;
+
+	--adw-popover-bg: #3b241a !important;
+	--adw-popover-fg: #f2dfc0 !important;
+	--adw-popover-shade: rgba(169, 133, 104, 0.25) !important;
+
+	--adw-thumbnail-bg: #3b241a !important;
+	--adw-thumbnail-fg: #f2dfc0 !important;
+
+	--adw-shade: rgba(169, 133, 104, 0.25) !important;
+	--adw-banner: #a98568 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #a98568 !important;
+	--adw-user-online: #b99ac8 !important;
+	--adw-user-ingame: #d47a50 !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #b99ac8 !important;
+	--adw-accent-teal: #d98276 !important;
+	--adw-accent-green: #d47a50 !important;
+	--adw-accent-yellow: #d9a441 !important;
+	--adw-accent-orange: #e68a4a !important;
+	--adw-accent-red: #e07a8a !important;
+	--adw-accent-pink: #d58ab4 !important;
+	--adw-accent-purple: #d58ab4 !important;
+	--adw-accent-slate: #a98568 !important;
+}

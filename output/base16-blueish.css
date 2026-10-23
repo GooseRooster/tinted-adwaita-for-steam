@@ -1,0 +1,86 @@
+/* Blueish by Ben Mayoras */
+/* tinted-adwaita-for-steam — https://github.com/GooseRooster/tinted-adwaita-for-steam */
+
+:root
+{
+	--adw-color-scheme: dark !important;
+
+	/* --- Accent / semantic --- */
+	--adw-accent-bg-light: #82aaff !important;
+	--adw-accent-bg-dark: #82aaff !important;
+	--adw-accent-fg: #182430 !important;
+
+	--adw-destructive-bg-light: #4ce587 !important;
+	--adw-destructive-bg-dark: #4ce587 !important;
+	--adw-destructive-fg: #182430 !important;
+
+	--adw-success-bg-light: #c3e88d !important;
+	--adw-success-bg-dark: #c3e88d !important;
+	--adw-success-fg: #182430 !important;
+
+	--adw-warning-bg-light: #f6cd5c !important;
+	--adw-warning-bg-dark: #f6cd5c !important;
+	--adw-warning-fg: #182430 !important;
+
+	--adw-error-bg-light: #4ce587 !important;
+	--adw-error-bg-dark: #4ce587 !important;
+	--adw-error-fg: #182430 !important;
+
+	/* --- Window / surfaces --- */
+	--adw-window-bg: #182430 !important;
+	--adw-window-fg: #c8e1f8 !important;
+
+	--adw-view-bg: #182430 !important;
+	--adw-view-fg: #c8e1f8 !important;
+
+	--adw-headerbar-bg: #243c54 !important;
+	--adw-headerbar-fg: #c8e1f8 !important;
+	--adw-headerbar-backdrop: #182430 !important;
+	--adw-headerbar-shade: rgba(97, 109, 120, 0.36) !important;
+	--adw-headerbar-darker-shade: rgba(97, 109, 120, 0.9) !important;
+
+	--adw-sidebar-bg: #243c54 !important;
+	--adw-sidebar-fg: #c8e1f8 !important;
+	--adw-sidebar-backdrop: #182430 !important;
+	--adw-sidebar-shade: rgba(97, 109, 120, 0.25) !important;
+	--adw-sidebar-border: #616d78 !important;
+
+	--adw-secondary-sidebar-bg: #46290a !important;
+	--adw-secondary-sidebar-fg: #c8e1f8 !important;
+	--adw-secondary-sidebar-backdrop: #243c54 !important;
+	--adw-secondary-sidebar-shade: rgba(97, 109, 120, 0.25) !important;
+	--adw-secondary-sidebar-border: #616d78 !important;
+
+	--adw-card-bg: #46290a !important;
+	--adw-card-fg: #c8e1f8 !important;
+	--adw-card-shade: rgba(97, 109, 120, 0.36) !important;
+
+	--adw-dialog-bg: #46290a !important;
+	--adw-dialog-fg: #c8e1f8 !important;
+
+	--adw-popover-bg: #46290a !important;
+	--adw-popover-fg: #c8e1f8 !important;
+	--adw-popover-shade: rgba(97, 109, 120, 0.25) !important;
+
+	--adw-thumbnail-bg: #46290a !important;
+	--adw-thumbnail-fg: #c8e1f8 !important;
+
+	--adw-shade: rgba(97, 109, 120, 0.25) !important;
+	--adw-banner: #616d78 !important;
+
+	/* --- Presence --- */
+	--adw-user-offline: #616d78 !important;
+	--adw-user-online: #82aaff !important;
+	--adw-user-ingame: #c3e88d !important;
+
+	/* --- Accent palette --- */
+	--adw-accent-blue: #82aaff !important;
+	--adw-accent-teal: #5fd1ff !important;
+	--adw-accent-green: #c3e88d !important;
+	--adw-accent-yellow: #f6cd5c !important;
+	--adw-accent-orange: #f6a85c !important;
+	--adw-accent-red: #4ce587 !important;
+	--adw-accent-pink: #ff84dd !important;
+	--adw-accent-purple: #ff84dd !important;
+	--adw-accent-slate: #616d78 !important;
+}
